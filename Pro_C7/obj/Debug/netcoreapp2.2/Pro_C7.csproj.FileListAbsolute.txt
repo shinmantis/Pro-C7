@@ -1,0 +1,10 @@
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/bin/Debug/netcoreapp2.2/Pro_C7.deps.json
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/bin/Debug/netcoreapp2.2/Pro_C7.runtimeconfig.json
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/bin/Debug/netcoreapp2.2/Pro_C7.runtimeconfig.dev.json
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/bin/Debug/netcoreapp2.2/Pro_C7.dll
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/bin/Debug/netcoreapp2.2/Pro_C7.pdb
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/obj/Debug/netcoreapp2.2/Pro_C7.csprojAssemblyReference.cache
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/obj/Debug/netcoreapp2.2/Pro_C7.AssemblyInfoInputs.cache
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/obj/Debug/netcoreapp2.2/Pro_C7.AssemblyInfo.cs
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/obj/Debug/netcoreapp2.2/Pro_C7.dll
+/Users/Dirac/RiderProjects/Pro_C7/Pro_C7/obj/Debug/netcoreapp2.2/Pro_C7.pdb
