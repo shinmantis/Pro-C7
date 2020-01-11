@@ -15,7 +15,6 @@
         <e p="CH3-P66-FormatNumbers.cs" t="Include" />
         <e p="CH3-P67-DisplayMessage.cs" t="Include" />
         <e p="CH3-P70-DefaultLiteral.cs" t="Include" />
-        <e p="CH3DisplayMessage.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">
