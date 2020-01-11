@@ -4,7 +4,7 @@ namespace Pro_C7
 {
     public class CH3_P71_NewingDataTypes
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             //Using to "new" to create new variables.  For intrinsic data types this will assign a default value
             
