@@ -10,11 +10,14 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Pro_C7" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="CH3-P56-HelloWorld.cs" t="Include" />
-        <e p="CH3-P64-GetUserData.cs" t="Include" />
-        <e p="CH3-P66-FormatNumbers.cs" t="Include" />
-        <e p="CH3-P67-DisplayMessage.cs" t="Include" />
-        <e p="CH3-P70-DefaultLiteral.cs" t="Include" />
+        <e p="Chapter-3" t="Include">
+          <e p="CH3-P56-HelloWorld.cs" t="Include" />
+          <e p="CH3-P64-GetUserData.cs" t="Include" />
+          <e p="CH3-P66-FormatNumbers.cs" t="Include" />
+          <e p="CH3-P67-DisplayMessage.cs" t="Include" />
+          <e p="CH3-P70-DefaultLiteral.cs" t="Include" />
+          <e p="CH3-P71-NewingDataTypes.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">

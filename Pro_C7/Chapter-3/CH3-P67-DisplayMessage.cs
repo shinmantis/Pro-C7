@@ -6,7 +6,7 @@ namespace Pro_C7
     public class CH3_P70_DisplayMessage
     {
         //Rename to Main to use
-        public static void Main(String[] args)
+        public static void Main1(String[] args)
         {
             DisplayMessage();
 
