@@ -4,7 +4,8 @@ namespace Pro_C7
 {
     public class CH3_P73_ObjectFunctionality
     {
-        public static void Main(string[] args)
+        //Rename to Main to use
+        public static void Main1(string[] args)
         {
             ObjectFunctionality();
         }

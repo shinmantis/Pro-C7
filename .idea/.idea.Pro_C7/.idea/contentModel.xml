@@ -17,7 +17,9 @@
           <e p="CH3-P67-DisplayMessage.cs" t="Include" />
           <e p="CH3-P70-DefaultLiteral.cs" t="Include" />
           <e p="CH3-P71-NewingDataTypes.cs" t="Include" />
+          <e p="CH3-P73-DataTypeFunctionality.cs" t="Include" />
           <e p="CH3-P73-ObjectFunctionality.cs" t="Include" />
+          <e p="CH3-P74-CharFunctionality.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
